@@ -1,0 +1,2973 @@
+﻿Contents for Discussion
+
+
+1. Nature and Content of the Constitution
+
+
+· 1.1 Meaning of “Constitution” in general — written vs. unwritten
+· 1.2 British Constitution as undefined, unsystematised, and largely unwritten
+· 1.3 Historical growth: product of history and evolution
+· 1.4 Nature of the British Constitution — body of basic rules; dynamic; practical; lacks logic/symmetry
+· 1.5 Debate: Did the British Constitution exist? — Thomas Paine and Tocqueville vs. rebuttal
+· 1.6 Written vs. unwritten constitutions — difference of degree, not kind; no constitution is complete by itself
+
+
+2. Component Parts / Sources of the Constitution
+
+
+· 2.1 Charters, Petitions, Statutes, and constitutional landmarks
+  · Magna Carta (1215), Petition of Rights (1628), Act of Settlement (1701), Parliament Act 1911/1949, Statute of Westminster 1931, etc.
+· 2.2 Ordinary statutes dealing with suffrage, elections, public officials
+· 2.3 Judicial decisions and precedents
+· 2.4 Common Law principles
+· 2.5 Usages and conventions
+· 2.6 Commentaries by eminent writers
+  · Erskine May, A.V. Dicey
+· 2.7 Royal Prerogative
+· 2.8 Summary of nature — Anson and Bagehot
+
+
+3. Conventions of the Constitution — Most Important
+
+
+· 3.1 Meaning and place of conventions in the British Constitution
+· 3.2 Distinction between laws of the Constitution and conventions of the Constitution
+  · Source, precision, enforcement
+· 3.3 Sanction behind conventions
+  · Dicey’s view
+  · Jennings’ view
+  · Marshall and Moodie
+  · Privy Council in British Coal Corporation v. Rex (1935)
+· 3.4 Kinds of conventions
+  · 3.4.1 Conventions ensuring harmony between Parliament and Executive / Cabinet Government
+  · 3.4.2 Conventions relating to legislative procedure and relations between the two Houses
+  · 3.4.3 Conventions linking government/legislature with the electorate — “mandate convention”
+  · 3.4.4 Conventions governing Dominion/Commonwealth relations
+· 3.5 Why conventions are observed in Britain
+· 3.6 Role of conventions: flexibility, democratisation, smooth working of government
+· 3.7 Limits of Dicey’s theory and examples of convention violation/change
+
+
+4. Salient Features of the British Constitution — Most Important
+
+
+· 4.1 Mostly unwritten
+· 4.2 Product of development and evolution
+· 4.3 Difference between theory and practice
+· 4.4 Sovereignty of Parliament
+· 4.5 Flexible Constitution
+· 4.6 Unitary Constitution
+· 4.7 Parliamentary Government
+· 4.8 Two-Party System
+· 4.9 Rule of Law and Civil Liberties
+· 4.10 Hereditary Character
+
+
+5. Development of the Constitution
+
+
+· 5.1 Continuous national development — Freeman’s view
+· 5.2 First period: Foundations — Angles/Saxons to 1485
+· 5.3 Second period: Reconstruction — 1485 to 1689
+· 5.4 Third period: Fructification/Rounding out — 1689 to present
+· 5.5 Main lines of development
+  · Diminished powers of the King
+  · Emergence of Cabinet and responsible Ministry
+  · Rise of political parties
+  · Leadership of the Prime Minister
+  · Shifting of power within Parliament
+  · Democratisation of House of Commons through Reform Acts
+  · Changes in Empire/Commonwealth
+  · Reform of House of Lords
+
+
+6. Suggested Readings
+
+
+· Amery, Anson, Bagehot, Dicey, Jennings, Keith, Laski, Lowell, Ogg, Wheare, Yardley, etc.
+
+
+Topic 1.1 — Meaning of “Constitution”: Written vs. Unwritten
+
+
+1.1.1 General Meaning of “Constitution”
+
+
+· In almost every country except the United Kingdom, the term “Constitution” means:
+  · a selection of legal rules
+  · which delineate the government of that country
+  · and which are embodied in one or several documents.
+· Such a document may be drawn up by:
+  · a Constituent Assembly, or
+  · a legislature, or
+  · granted by a King, binding himself and his successors to govern according to its provisions.
+· Thus, in the ordinary sense, a Constitution means:
+  · a written, precise and systematic document
+  · containing the general principles under which government functions.
+
+
+1.1.2 Characteristics of a Written Constitution
+
+
+· It is distinct in character.
+· It is the supreme law of the land.
+· It is held in special sanctity.
+· It is amended by a special procedure, different from the procedure for amending ordinary/statutory law.
+· Ordinary/statutory law must be consistent with:
+  · the letter of the Constitution, and
+  · the spirit of the Constitution.
+· If statutory law is inconsistent, it is held:
+  · unconstitutional, or
+  · ultra vires (beyond legal power),
+  · as soon as a court gets an opportunity to review it.
+
+
+1.1.3 The British Departure from the General Meaning
+
+
+· The British Constitution has never been devised and reduced to writing.
+· It remains:
+  · undefined,
+  · unsystematised, and
+  · undecided.
+· It lacks:
+  · precision, and
+  · coherence.
+· Englishmen never drew out their political system in the shape of a formal document.
+· Therefore, there is no single place where “The Constitution” as a whole is clearly and definitely written down.
+· Many books describe the British Constitution, but no single book can be said to contain it.
+
+
+1.1.4 Scattered Nature of British Constitutional Rules
+
+
+· Some enactments of Parliament make up the British Constitution, but:
+  · they do not bear the same date;
+  · they are scattered;
+  · they were made as and when needed, according to circumstances.
+· The most important part of the British Constitution is:
+  · what is kept out of written law, and
+  · given over to the sole guardianship of custom.
+· There is no law in the UK which can be called constitutional merely because it can be altered by a different procedure from ordinary statutory law.
+
+
+1.1.5 Constitutional Law and Statutory Law in Britain
+
+
+· In Britain, Constitutional Law and Statutory/Ordinary Law stand at par with one another.
+· Both:
+  · emanate from the same source;
+  · undergo the same procedure in passing and amending.
+· Therefore:
+  · no court or any other authority can legally refuse to enforce or set aside an enactment of Parliament.
+
+
+1.1.6 British Constitution as Unwritten, Flexible and Evolutionary
+
+
+· The British Constitution is, to a large extent:
+  · an unwritten Constitution, and
+  · a flexible Constitution.
+· It is:
+  · the product of history;
+  · the result of evolution;
+  · grown with the growth of the English nation;
+  · changed with its wants;
+  · adapted to the needs of various times.
+· Jennings’ observation:
+  · “If the Constitution consists of institutions and not of the paper that describes them, the British Constitution has not been made but has grown—and there is no paper.”
+· Institutions were established from time to time as need arose.
+· They were formed to meet immediate requirements, then adapted to broader and sometimes different functions.
+· There has been a constant process of:
+  · invention,
+  · reform, and
+  · amended distribution of powers.
+· The building has been constantly:
+  · added to,
+  · patched, and
+  · partly reconstructed,
+  · but never razed and rebuilt on a new foundation.
+
+
+1.1.7 British Constitution as a Body of Basic Rules
+
+
+· Briefly, the British Constitution is:
+  · a body of basic rules
+  · indicating the structure and functions of political institutions
+  · and the principles governing their operation.
+· It is the same in nature as the constitution of any other country.
+· The only difference is that the British Constitution has never been systematised, codified and put in orderly form.
+· Probably no future attempt will be made to bring all rules and principles together into a consistent and coherent whole.
+· This is practically impossible because:
+  · usages and traditions cover a wide range;
+  · many of them are not sufficiently definite to be reduced to writing.
+· Moreover, the Englishman as a political entity has never favoured a government based on fixed principles involving exact rules.
+· He is:
+  · practical,
+  · matter-of-fact,
+  · zealous for business.
+· Expediency is his guiding principle.
+· The British Constitution therefore lacks logic, but it is not a mere hotchpotch of heterogeneous elements.
+· Its rules and principles have been deduced from British experience and consciously adhered to and applied.
+
+
+1.1.8 Paine and Tocqueville: “The British Constitution Does Not Exist”
+
+
+· Thomas Paine:
+  · a champion of written constitutions;
+  · declared that where a Constitution “cannot be produced in a visible form, there is none.”
+  · asked Burke: “Can Mr. Burke produce the English Constitution?”
+  · concluded that no such thing as a Constitution exists or ever did exist.
+· Alexis de Tocqueville:
+  · said that in England the Constitution may go on changing continually, or rather it does not exist.
+· Rebuttal:
+  · Paine and Tocqueville were wrong.
+  · There can be no State without a constitution.
+  · It is true that Britain has no single document comprising fundamental constitutional rules.
+  · But no constitution is either wholly written or entirely unwritten.
+  · Written and unwritten elements are present in every constitution.
+
+
+1.1.9 Written and Unwritten Elements in Every Constitution
+
+
+· All written constitutions grow and expand with time through:
+  · customs, and
+  · judicial interpretations.
+· Bryce’s observation:
+  · Written constitutions become “developed by interpretation, fringed with decisions, and enlarged by customs,” so that after a time the letter of the text no longer conveys their full effect.
+· Makers of a written constitution cannot foresee the future.
+· Man is dynamic, and so are his political institutions.
+· The conventional element in any system of government is inevitable.
+· A written constitution does not contain all rules relating to all institutions of government.
+· A selection is made.
+· Examples:
+  · US Constitution: only seven Articles, about ten pages.
+  · Indian Constitution: lengthiest in the world, 395 Articles and twelve Schedules.
+· This shows that a written constitution may contain as much or as little as the framers think desirable.
+· Yet no constitution is complete by itself:
+  · it is a framework, a skeleton;
+  · it must be filled out with detailed rules and practices;
+  · it deals with principal institutions, main functions, and important rights and duties;
+  · it may contain more or less according to circumstances and problems at the time of drafting.
+· All written constitutions provide for amendments.
+· Customs and judicial decisions also supplement constitutional provisions.
+· Therefore, the difference between a written and an unwritten constitution is:
+  · one of degree, not of kind.
+
+
+1.1.10 Key Conclusion
+
+
+· Wherever there are rules determining the creation and operation of governmental institutions, there exists a constitution.
+· Britain has such institutions and such rules.
+· Long before Paine and Tocqueville, England had such a body of rules, with Englishmen equally conscious of its existence and proud of its history.
+
+
+---
+
+
+Key exam points for 1.1:
+
+
+· General meaning of constitution = written, precise, systematic, supreme law, special amendment procedure.
+· British Constitution = largely unwritten, unsystematised, scattered, flexible, evolutionary.
+· Constitutional law and ordinary law stand at par in Britain; no special amendment procedure; no judicial review to set aside Parliament’s enactments.
+· Paine/Tocqueville said British Constitution does not exist — but this is wrong; no constitution is wholly written or wholly unwritten.
+· Written vs. unwritten = difference of degree, not kind.
+
+
+
+
+Here are MCQs covering every part of Topic 1.1. Options are given; answers are not marked, so you can attempt them.
+
+
+---
+
+
+From 1.1.1 — General Meaning of “Constitution”
+
+
+1. In almost every country except the United Kingdom, the term “Constitution” means:
+(a) a body of customs and traditions only
+(b) a selection of legal rules delineating the government, embodied in one or several documents
+(c) an unwritten set of conventions
+(d) a document granted only by a King
+
+
+2. A Constitution may be drawn up by:
+(a) a Constituent Assembly
+(b) a legislature
+(c) a King binding himself and his successors
+(d) all of the above
+
+
+3. In the ordinary sense, a Constitution means a document that is:
+(a) unwritten, vague and unsystematic
+(b) written, precise and systematic
+(c) flexible and amendable by ordinary law
+(d) based only on judicial precedents
+
+
+---
+
+
+From 1.1.2 — Characteristics of a Written Constitution
+
+
+4. A written Constitution is:
+(a) subordinate to statutory law
+(b) the supreme law of the land
+(c) amendable by the same procedure as ordinary law
+(d) enforceable only by the King
+
+
+5. A written Constitution is amended by:
+(a) the same procedure as ordinary law
+(b) a procedure different from that required for ordinary law
+(c) royal proclamation only
+(d) judicial decision only
+
+
+6. Statutory law must be consistent with:
+(a) only the letter of the Constitution
+(b) only the spirit of the Constitution
+(c) both the letter and the spirit of the Constitution
+(d) neither the letter nor the spirit
+
+
+7. If statutory law is inconsistent with the Constitution, it is held:
+(a) valid until amended
+(b) unconstitutional or ultra vires
+(c) automatically repealed by the King
+(d) enforceable by convention
+
+
+---
+
+
+From 1.1.3 — The British Departure
+
+
+8. The British Constitution has never been:
+(a) described in books
+(b) devised and reduced to writing
+(c) amended by Parliament
+(d) based on custom
+
+
+9. The British Constitution lacks:
+(a) precision and coherence
+(b) historical growth
+(c) parliamentary enactments
+(d) judicial decisions
+
+
+10. Regarding the British Constitution, it is true that:
+(a) one book contains the whole Constitution
+(b) many books describe it, but no one book contains it
+(c) it is fully codified
+(d) it was drafted by a Constituent Assembly
+
+
+---
+
+
+From 1.1.4 — Scattered Nature of British Constitutional Rules
+
+
+11. Enactments of Parliament making up the British Constitution:
+(a) all bear the same date
+(b) are scattered and made as and when needed
+(c) were all passed in 1688
+(d) are codified in one document
+
+
+12. The most important part of the British Constitution is:
+(a) written statutes
+(b) kept out of written law and given over to custom
+(c) judicial decisions only
+(d) royal prerogative only
+
+
+13. In the UK, there is no law that can be called constitutional merely because:
+(a) it deals with government
+(b) it can be altered by a procedure different from ordinary statutory law
+(c) it was passed by Parliament
+(d) it is old
+
+
+---
+
+
+From 1.1.5 — Constitutional Law and Statutory Law in Britain
+
+
+14. In Britain, Constitutional Law and Statutory Law:
+(a) stand at par with one another
+(b) have different sources
+(c) undergo different amendment procedures
+(d) are both subject to judicial review
+
+
+15. In Britain, no court can:
+(a) interpret statutes
+(b) refuse to enforce or set aside an enactment of Parliament
+(c) decide cases involving government
+(d) apply common law
+
+
+---
+
+
+From 1.1.6 — Unwritten, Flexible and Evolutionary
+
+
+16. The British Constitution is:
+(a) written and rigid
+(b) unwritten and flexible
+(c) codified and supreme
+(d) federal and written
+
+
+17. Jennings said the British Constitution:
+(a) was made by a Constituent Assembly
+(b) has not been made but has grown—and there is no paper
+(c) is contained in one document
+(d) is entirely written
+
+
+18. The British Constitution is the result of:
+(a) a single revolutionary act
+(b) history and evolution
+(c) a royal grant in 1215
+(d) a Constituent Assembly in 1688
+
+
+19. The British Constitution has been:
+(a) razed and rebuilt on a new foundation
+(b) constantly added to, patched and partly reconstructed
+(c) unchanged since 1688
+(d) codified in 1931
+
+
+---
+
+
+From 1.1.7 — Body of Basic Rules
+
+
+20. The British Constitution is:
+(a) different in nature from other constitutions
+(b) the same in nature as other constitutions, but never systematised or codified
+(c) wholly written
+(d) based on fixed principles and exact rules
+
+
+21. The Englishman as a political entity has never favoured:
+(a) practical government
+(b) a system based on fixed principles involving exact rules
+(c) parliamentary government
+(d) common law
+
+
+22. The guiding principle of the Englishman’s political life is:
+(a) logic
+(b) symmetry
+(c) expediency
+(d) codification
+
+
+23. Ogg says the British constitutional structure lacks:
+(a) symmetry and abounds in the illogical
+(b) flexibility
+(c) historical growth
+(d) parliamentary sovereignty
+
+
+24. The British Constitution is not a mere hotchpotch because its rules have been:
+(a) deduced from British experience and consciously applied
+(b) copied from the US Constitution
+(c) drafted by a Constituent Assembly
+(d) enacted in one statute
+
+
+---
+
+
+From 1.1.8 — Paine and Tocqueville
+
+
+25. Thomas Paine declared that where a Constitution “cannot be produced in a visible form”:
+(a) it is flexible
+(b) there is none
+(c) it is supreme
+(d) it is conventional
+
+
+26. Tocqueville said that in England the Constitution:
+(a) is fully written
+(b) may go on changing continually, or rather does not exist
+(c) is the supreme law
+(d) was made in 1688
+
+
+27. The text concludes that Paine and Tocqueville were:
+(a) correct
+(b) wrong
+(c) partially correct
+(d) describing the US Constitution
+
+
+28. According to the text, there can be no State without:
+(a) a written constitution
+(b) a constitution
+(c) a King
+(d) a Parliament
+
+
+---
+
+
+From 1.1.9 — Written and Unwritten Elements
+
+
+29. No constitution is:
+(a) wholly written or entirely unwritten
+(b) based on customs
+(c) subject to judicial interpretation
+(d) complete by itself
+
+
+30. Bryce remarked that written constitutions become:
+(a) rigid and fixed
+(b) developed by interpretation, fringed with decisions, and enlarged by customs
+(c) obsolete quickly
+(d) codified again
+
+
+31. The US Constitution contains:
+(a) 395 Articles
+(b) seven Articles and about ten pages
+(c) twelve Schedules
+(d) no articles
+
+
+32. The Indian Constitution contains:
+(a) seven Articles
+(b) 395 Articles and twelve Schedules
+(c) ten pages
+(d) no Schedules
+
+
+33. A written constitution is:
+(a) complete by itself
+(b) a framework or skeleton filled out with detailed rules and practices
+(c) not amendable
+(d) not supplemented by customs
+
+
+34. The difference between a written and an unwritten constitution is one of:
+(a) kind, not degree
+(b) degree, not kind
+(c) nature, not form
+(d) supremacy, not flexibility
+
+
+---
+
+
+From 1.1.10 — Key Conclusion
+
+
+35. Wherever there are rules determining the creation and operation of governmental institutions, there exists:
+(a) a written constitution
+(b) a constitution
+(c) a federal system
+(d) judicial review
+
+
+36. Long before Paine and Tocqueville, England had:
+(a) no constitution
+(b) a body of rules, with Englishmen conscious of its existence and proud of its history
+(c) a codified constitution
+(d) a written constitution drafted by a Constituent Assembly
+
+
+---
+
+
+You can attempt these and then ask for the answer key or explanations for any question.
+
+
+
+
+Topic 1.2 — British Constitution as Undefined, Unsystematised, and Largely Unwritten
+
+
+1.2.1 Undefined and Unsystematised Character
+
+
+· The British Constitution has never been devised and reduced to writing.
+· It remains:
+  · undefined,
+  · unsystematised, and
+  · undecided.
+· It lacks:
+  · precision, and
+  · coherence.
+
+
+1.2.2 No Single Document / No Codification
+
+
+· Englishmen never drew out their political system in the shape of a formal document.
+· Consequently, there is no single place in which “The Constitution” as a whole is clearly and definitely written down.
+· Many books describe the British Constitution, but no one of them can be said to contain it.
+
+
+1.2.3 Scattered Enactments
+
+
+· Some enactments of Parliament make the British Constitution, but:
+  · they do not bear the same date;
+  · they are scattered;
+  · they were made as and when they were needed and the circumstances demanded.
+
+
+1.2.4 Custom as the Most Important Part
+
+
+· The most important part of the British Constitution is:
+  · just what is kept out of the written law, and
+  · given over to the sole guardianship of custom.
+
+
+1.2.5 Constitutional Law and Statutory Law at Par
+
+
+· There is no law in the UK of which we can say:
+  · “since it is a part of the Constitution, it can be altered by a procedure different from the one required for altering the statutory law.”
+· Here, Constitutional Law and Statutory/Ordinary Law:
+  · stand at par with one another;
+  · emanate from the same source;
+  · undergo the same procedure in passing and amending.
+
+
+1.2.6 No Judicial Review of Parliament’s Enactments
+
+
+· Obviously, then:
+  · no court or any other authority can legally refuse to enforce or set aside any enactment of Parliament.
+
+
+1.2.7 Unwritten and Flexible Constitution
+
+
+· The British Constitution is, therefore, to a large extent:
+  · an unwritten Constitution, and
+  · a flexible Constitution.
+
+
+1.2.8 Product of History and Evolution
+
+
+· It is:
+  · the product of history;
+  · the result of evolution;
+  · grown with the growth of the English nation;
+  · changed with its wants;
+  · adapted itself to the needs of various times.
+
+
+1.2.9 Jennings’ Observation
+
+
+· Jennings aptly remarked:
+  · “If the Constitution consists of institutions and not of the paper that describes them, the British Constitution has not been made but has grown—and there is no paper.”
+· Institutions necessary for carrying out State functions were established from time to time as the need arose.
+· They were:
+  · formed to meet immediate requirements;
+  · then adapted to exercise more extensive and sometimes different functions.
+· From time to time, political and economic circumstances have called for reforms.
+· There has been a constant process of:
+  · invention,
+  · reform, and
+  · amended distribution of powers.
+· The building has been constantly:
+  · added to,
+  · patched, and
+  · partly reconstructed,
+  · so that it has been renewed from century to century,
+  · but it has never been razed and rebuilt on new foundation.
+
+
+1.2.10 “Child of Wisdom and Chance”
+
+
+· The British Constitution is “the child of wisdom and chance”.
+· It is the result of a process in which many elements have entered, piling themselves one upon another from age to age:
+  · charters,
+  · statutes,
+  · judicial decisions,
+  · precedents,
+  · usages, and
+  · traditions.
+· These have shaped the political institutions of the country according to the exigencies of time.
+
+
+1.2.11 Ever-Growing and Dynamic
+
+
+· The British Constitution is:
+  · ever growing;
+  · always undergoing modifications;
+  · a dynamic Constitution with its roots in the past and branches in the future.
+· Lord Morrison cogently said:
+  · “But as a whole, ours has been a peaceful development, learning as we moved on, establishing the foundation of further progress.”
+· No man in 1688 could have foretold with accuracy what the Constitution of present-day Britain would be.
+· No man of our times can predict how the Constitution will evolve a few decades hence.
+
+
+1.2.12 Summary of the Nature
+
+
+· Briefly, the British Constitution is:
+  · a body of basic rules;
+  · indicating the structure and functions of political institutions;
+  · and the principles governing their operation.
+· It is the same in nature as the constitution of any other country.
+· The only difference is that the British Constitution has never been systematised, codified and put in an orderly form.
+
+
+1.2.13 No Future Codification Likely
+
+
+· Probably, no attempt will be made in future to bring all these rules and principles together to make the Constitution a consistent and coherent whole.
+· In fact, it is an impossible task, because:
+  · usages and traditions cover a wide range;
+  · many of them are not sufficiently definite to be reduced to writing.
+· Moreover, the Englishman, as a political entity, has never favoured a system of government based upon fixed principles involving the application of exact rules.
+· He is:
+  · practical,
+  · matter-of-fact, and
+  · zealous for business.
+· Expediency is the guiding principle of his life, and he seizes opportunity by the forelock.
+· He knows no logic, and the British Constitution lacks all logic.
+· Ogg says:
+  · “the result is a constitutional structure which lacks symmetry, governmental system which abounds in the illogical.”
+· But this does not mean it is a mere hotchpotch of heterogeneous elements.
+· The rules and principles governing the governmental machinery have been:
+  · deduced from British experience, and
+  · consciously adhered to and applied.
+
+
+---
+
+
+Key Exam Points for 1.2
+
+
+Point Key Idea
+Undefined Never reduced to writing; lacks precision and coherence
+No single document Many books describe it, none contains it
+Scattered enactments Different dates; made as needed
+Custom supreme Most important part is unwritten, guarded by custom
+No special procedure Constitutional law = statutory law; same source, same amendment
+No judicial review Courts cannot set aside Parliament’s enactments
+Unwritten & flexible Product of history and evolution
+Jennings “Not made but grown—and there is no paper”
+Child of wisdom and chance Charters, statutes, decisions, precedents, usages, traditions
+Dynamic Roots in past, branches in future; ever-growing
+No future codification Impossible; Englishman is practical, not logical
+Ogg Lacks symmetry, abounds in illogical—but not a hotchpotch
+Experience-based Rules deduced from British experience and consciously applied
+
+
+---
+
+
+MCQs from Topic 1.2
+
+
+From 1.2.1 — Undefined and Unsystematised
+
+
+1. The British Constitution remains:
+(a) defined and systematised
+(b) undefined, unsystematised and undecided
+(c) codified and precise
+(d) written and coherent
+
+
+2. The British Constitution lacks:
+(a) historical growth
+(b) precision and coherence
+(c) parliamentary enactments
+(d) custom
+
+
+---
+
+
+From 1.2.2 — No Single Document
+
+
+3. Regarding the British Constitution:
+(a) one book contains it fully
+(b) many books describe it, but none contains it
+(c) it is codified in one document
+(d) it was drafted by a Constituent Assembly
+
+
+4. Englishmen never drew out their political system in the shape of:
+(a) a formal document
+(b) customs
+(c) judicial decisions
+(d) conventions
+
+
+---
+
+
+From 1.2.3 — Scattered Enactments
+
+
+5. Enactments of Parliament making the British Constitution:
+(a) bear the same date
+(b) are scattered and made as and when needed
+(c) were all passed in 1688
+(d) are codified
+
+
+6. The circumstances under which British constitutional enactments were made were:
+(a) uniform
+(b) varied, as circumstances demanded
+(c) revolutionary
+(d) codified
+
+
+---
+
+
+From 1.2.4 — Custom as the Most Important Part
+
+
+7. The most important part of the British Constitution is:
+(a) written statutes
+(b) kept out of written law and given over to custom
+(c) judicial decisions only
+(d) royal prerogative
+
+
+8. The guardian of the most important part of the British Constitution is:
+(a) Parliament
+(b) the courts
+(c) custom
+(d) the King
+
+
+---
+
+
+From 1.2.5 — Constitutional Law and Statutory Law at Par
+
+
+9. In Britain, Constitutional Law and Statutory Law:
+(a) have different sources
+(b) stand at par; same source, same procedure
+(c) have different amendment procedures
+(d) are both codified
+
+
+10. In the UK, there is no law that can be called constitutional merely because:
+(a) it deals with government
+(b) it can be altered by a procedure different from ordinary statutory law
+(c) it was passed by Parliament
+(d) it is old
+
+
+---
+
+
+From 1.2.6 — No Judicial Review
+
+
+11. In Britain, no court can:
+(a) interpret statutes
+(b) refuse to enforce or set aside an enactment of Parliament
+(c) decide constitutional cases
+(d) apply common law
+
+
+12. The reason courts cannot set aside Parliament’s enactments is that:
+(a) courts are not independent
+(b) constitutional law and statutory law stand at par
+(c) the King forbids it
+(d) conventions prevent it
+
+
+---
+
+
+From 1.2.7 — Unwritten and Flexible
+
+
+13. The British Constitution is:
+(a) written and rigid
+(b) unwritten and flexible
+(c) codified and supreme
+(d) federal and written
+
+
+14. The British Constitution is flexible because:
+(a) it is codified
+(b) it is largely unwritten and amendable by ordinary procedure
+(c) courts can amend it
+(d) the King can amend it
+
+
+---
+
+
+From 1.2.8 — Product of History and Evolution
+
+
+15. The British Constitution is the result of:
+(a) a single revolutionary act
+(b) history and evolution
+(c) a royal grant in 1215
+(d) a Constituent Assembly
+
+
+16. The British Constitution has:
+(a) remained unchanged since 1688
+(b) grown with the growth of the English nation
+(c) been codified in 1931
+(d) been drafted by Parliament
+
+
+---
+
+
+From 1.2.9 — Jennings’ Observation
+
+
+17. Jennings said the British Constitution:
+(a) was made by a Constituent Assembly
+(b) has not been made but has grown—and there is no paper
+(c) is contained in one document
+(d) is entirely written
+
+
+18. According to Jennings, institutions were established:
+(a) all at once in 1688
+(b) from time to time as the need arose
+(c) by a Constituent Assembly
+(d) by the King alone
+
+
+19. The British constitutional building has been:
+(a) razed and rebuilt on a new foundation
+(b) constantly added to, patched and partly reconstructed
+(c) unchanged since 1215
+(d) codified in 1931
+
+
+---
+
+
+From 1.2.10 — “Child of Wisdom and Chance”
+
+
+20. The British Constitution is called:
+(a) the child of logic and reason
+(b) the child of wisdom and chance
+(c) the child of revolution
+(d) the child of codification
+
+
+21. Elements that entered the British Constitution include:
+(a) charters, statutes, judicial decisions, precedents, usages, traditions
+(b) only statutes
+(c) only judicial decisions
+(d) only conventions
+
+
+---
+
+
+From 1.2.11 — Ever-Growing and Dynamic
+
+
+22. The British Constitution is:
+(a) static
+(b) ever growing and always undergoing modifications
+(c) codified once and for all
+(d) rigid and unchangeable
+
+
+23. The British Constitution has:
+(a) roots in the future and branches in the past
+(b) roots in the past and branches in the future
+(c) no roots
+(d) only branches
+
+
+24. Lord Morrison said Britain’s constitutional development has been:
+(a) violent and revolutionary
+(b) peaceful, learning as they moved on
+(c) codified
+(d) static
+
+
+25. Regarding prediction of the Constitution’s future:
+(a) it can be accurately predicted
+(b) no man in 1688 could have foretold present-day Britain, nor can we predict decades hence
+(c) it never changes
+(d) it changes only by revolution
+
+
+---
+
+
+From 1.2.12 — Summary of the Nature
+
+
+26. The British Constitution is:
+(a) different in nature from other constitutions
+(b) the same in nature as other constitutions, but never systematised or codified
+(c) wholly written
+(d) based on fixed principles and exact rules
+
+
+27. The only difference between the British Constitution and others is that it has:
+(a) no rules
+(b) never been systematised, codified and put in orderly form
+(c) no institutions
+(d) no history
+
+
+---
+
+
+From 1.2.13 — No Future Codification Likely
+
+
+28. Future codification of the British Constitution is:
+(a) certain
+(b) probable
+(c) impossible and unlikely
+(d) already underway
+
+
+29. Codification is impossible because:
+(a) usages and traditions are too wide-ranging and often not sufficiently definite to be written
+(b) Parliament forbids it
+(c) courts oppose it
+(d) the King vetoes it
+
+
+30. The Englishman as a political entity has never favoured:
+(a) practical government
+(b) a system based on fixed principles involving exact rules
+(c) parliamentary government
+(d) common law
+
+
+31. The guiding principle of the Englishman’s political life is:
+(a) logic
+(b) symmetry
+(c) expediency
+(d) codification
+
+
+32. Ogg says the British constitutional structure:
+(a) lacks symmetry and abounds in the illogical
+(b) is perfectly symmetrical
+(c) is fully logical
+(d) is codified
+
+
+33. The British Constitution is not a mere hotchpotch because its rules have been:
+(a) deduced from British experience and consciously applied
+(b) copied from the US
+(c) drafted by a Constituent Assembly
+(d) enacted in one statute
+
+
+34. “He knows no logic, and the British Constitution lacks all logic” refers to:
+(a) the King
+(b) the Englishman as a political entity
+(c) Jennings
+(d) Ogg
+
+
+---
+
+
+Mixed / Comprehensive
+
+
+35. Which is NOT a characteristic of the British Constitution?
+(a) Largely unwritten
+(b) Flexible
+(c) Codified and systematic
+(d) Product of evolution
+
+
+36. Which statement is correct?
+(a) The British Constitution is contained in one document
+(b) Constitutional law and statutory law stand at par in Britain
+(c) Courts can set aside Acts of Parliament
+(d) The British Constitution is rigid
+
+
+37. Which statement is incorrect?
+(a) The British Constitution is largely unwritten
+(b) It has grown gradually
+(c) It is codified and systematic
+(d) It is flexible
+
+
+38. “There is no paper” — who said this about the British Constitution?
+(a) Dicey
+(b) Jennings
+(c) Ogg
+(d) Anson
+
+
+39. The British Constitution has been renewed from century to century but:
+(a) was razed and rebuilt
+(b) never razed and rebuilt on new foundation
+(c) was codified in 1688
+(d) was written in 1215
+
+
+40. The British Constitution is dynamic because:
+(a) it is codified
+(b) it has roots in the past and branches in the future
+(c) it is rigid
+(d) courts amend it regularly
+
+
+---
+
+
+Attempt these and share your answers. Then we can move to Topic 1.3 — Historical growth: product of history and evolution or any other section you prefer.
+
+
+Topic 1.3 — Historical Growth: Product of History and Evolution
+
+
+1.3.1 Core Idea
+
+
+· The British Constitution is not a pre-arranged pattern according to which government must be carried on.
+· It is not the result of conscious creation.
+· Its sources are several, and the course of its development has been:
+  · sometimes guided by accident,
+  · sometimes by high design.
+
+
+1.3.2 “Child of Wisdom and Chance”
+
+
+· It is a “child of wisdom and of chance”.
+· Its growth has been:
+  · piecemeal, and
+  · gradual.
+· It has expressed itself in different Charters and Statutes, precedents, usages and traditions—whatever the exigencies of time demanded.
+
+
+1.3.3 No Single Document
+
+
+· Accordingly, there is no single document which can be said to contain the general principles of political government.
+· In fact, no attempt has ever been made to embody these principles in a documentary form.
+· They remain scattered.
+· Some rules and principles have been reduced to writing and embodied in Acts of Parliament, but a greater part still remains unwritten and is:
+  · “simply carried in men’s minds as precedents, decisions, habits, and practices.”
+· The written elements taken by themselves do not comprise the Constitution, though they have considerably affected it.
+
+
+1.3.4 Growth Like an Organism
+
+
+· The British Constitution has grown like an organism and developed from age to age.
+· It fulfils Sir James McIntosh’s dictum that constitutions grow instead of being made.
+· It is the product of evolution and the result of slow and steady development and successive accretions spreading over a thousand years.
+
+
+1.3.5 No Revolutionary Political Upheavals
+
+
+· All through this period, Britain has never witnessed political upheavals of a revolutionary character.
+· In fact, all political revolutions, if they may be described as revolutions, have been of conservative nature.
+· Britain has all through moved along an essentially continuous constitutional pathway, readjusting her institutions slowly and cautiously to the changing conditions and needs of the country and its people.
+
+
+1.3.6 Ogg’s Observation
+
+
+· Ogg says:
+  · political changes “have as a rule been so gradual,
+  · deference to traditions so habitual,
+  · and the disposition to cling to accustomed names and forms even when the spirit has changed, so deep-seated,
+  · that the constitutional history of Britain displays a continuity hardly paralleled in any other land.”
+
+
+1.3.7 Lord Morrison’s View
+
+
+· Lord Morrison is of the opinion that such a peaceful evolution of the British Constitution is:
+  · “more permanent,
+  · more satisfactory, and
+  · less painful,
+  · than if it were the result of the violent bloody revolution,”
+· and he thinks that his “country has been lucky in that respect.”
+
+
+1.3.8 Freeman’s Observation (from Section 4 Development of the Constitution — relevant here)
+
+
+· Freeman emphasised the feature of continuous development with unquestionable accuracy:
+  · “The continual national life of the people, notwithstanding foreign conquests and internal revolutions, has remained unbroken for fourteen hundred years.
+  · At no moment has the tie between the present and the past been wholly rent asunder;
+  · at no moment have Englishmen sat down to put together a wholly new constitution in obedience to some dazzling theory.
+  · Each step in our growth has been the natural consequence of some earlier step;
+  · each change in our land and constitution has been, not the beginning in anything wholly new, but the development and improvement of something that was already old.
+  · Our progress has in some ages been faster, in others slower; at some moments we have seemed to stand still, or even to go back, but the great mark of political development has never wholly stopped;
+  · it has never been permanently checked since the days when the coming in of the Teutonic conquerors first began to change Britain into England.”
+
+
+1.3.9 Starting Point
+
+
+· The starting point of the British Constitution and the principles which govern their working lie scattered into the past.
+· The present mechanism of government can only be understood if we analyse the process of this growth:
+  · how the British Constitution came into being, and
+  · how it assumed its present form and stature.
+
+
+1.3.10 Periods of Growth (brief mention — detailed in Topic 5)
+
+
+· It is customary to divide this process of growth into six distinct periods, but the text divides them into three as a matter of practical utility:
+  1. First period: Angles and Saxons through Norman and Angevin dynasties to 1485 — foundations of the Constitution.
+  2. Second period: 1485 to 1689 — Tudor dynasty through early and later Stuart periods, including Puritan Revolution and Commonwealth — reconstruction of the Constitution.
+  3. Third period: 1689 to the present — rounding out / fructification of the Constitution.
+· By the end of the fifteenth century:
+  · Parliament had begun to show marks of its strength;
+  · the King’s power had definitely eclipsed;
+  · the great institutional foundation of the modern English Constitution had been firmly laid.
+· The years to come were in the nature of further growth and adjustment of these institutions, leading to altered balances of power and mechanisms of control.
+
+
+---
+
+
+Key Exam Points for 1.3
+
+
+Point Key Idea
+Not conscious creation Product of several sources; accident and design
+Child of wisdom and chance Piecemeal, gradual growth
+No single document Rules scattered; greater part unwritten, carried in men’s minds
+Organic growth Grown like an organism; McIntosh: constitutions grow, not made
+No revolutionary upheavals Revolutions conservative; continuous pathway; slow, cautious readjustment
+Ogg Gradual changes, habitual deference to tradition, continuity hardly paralleled
+Lord Morrison Peaceful evolution more permanent, satisfactory, less painful than violent revolution
+Freeman Unbroken national life for 1400 years; no wholly new constitution; each step natural consequence of earlier step
+Three periods 1485 foundations; 1485–1689 reconstruction; 1689–present fructification
+
+
+---
+
+
+MCQs from Topic 1.3
+
+
+From 1.3.1–1.3.2 — Core Idea / Child of Wisdom and Chance
+
+
+1. The British Constitution is:
+(a) a pre-arranged pattern
+(b) not a pre-arranged pattern and not the result of conscious creation
+(c) the result of conscious creation
+(d) drafted by a Constituent Assembly
+
+
+2. The course of development of the British Constitution has been guided by:
+(a) only accident
+(b) only high design
+(c) sometimes accident and sometimes high design
+(d) neither accident nor design
+
+
+3. The British Constitution is called:
+(a) the child of logic and reason
+(b) the child of wisdom and chance
+(c) the child of revolution
+(d) the child of codification
+
+
+4. The growth of the British Constitution has been:
+(a) piecemeal and gradual
+(b) sudden and revolutionary
+(c) codified at once
+(d) planned in advance
+
+
+---
+
+
+From 1.3.3 — No Single Document
+
+
+5. Regarding the general principles of political government, the British Constitution:
+(a) contains them in one document
+(b) has no single document containing them
+(c) codified them in 1688
+(d) wrote them in 1215
+
+
+6. Some rules of the British Constitution are embodied in Acts of Parliament, but a greater part:
+(a) is also written
+(b) remains unwritten and is carried in men’s minds as precedents, decisions, habits, and practices
+(c) is codified
+(d) is contained in one document
+
+
+7. The written elements of the British Constitution:
+(a) comprise the whole Constitution
+(b) do not comprise the Constitution by themselves, though they have affected it
+(c) are irrelevant
+(d) are codified
+
+
+---
+
+
+From 1.3.4 — Growth Like an Organism
+
+
+8. The British Constitution has grown:
+(a) like a machine
+(b) like an organism
+(c) by revolution
+(d) by codification
+
+
+9. Sir James McIntosh’s dictum is that constitutions:
+(a) are made, not grown
+(b) grow instead of being made
+(c) are drafted by assemblies
+(d) are granted by kings
+
+
+10. The British Constitution is the result of:
+(a) a single act
+(b) slow and steady development and successive accretions over a thousand years
+(c) a Constituent Assembly
+(d) a royal grant in 1215
+
+
+---
+
+
+From 1.3.5–1.3.6 — No Revolutionary Upheavals / Ogg
+
+
+11. Britain has never witnessed political upheavals of:
+(a) a conservative character
+(b) a revolutionary character
+(c) a gradual character
+(d) a peaceful character
+
+
+12. All political revolutions in Britain, if they may be described as revolutions, have been of:
+(a) a radical nature
+(b) a conservative nature
+(c) a violent nature
+(d) a sudden nature
+
+
+13. Britain has readjusted her institutions:
+(a) suddenly and violently
+(b) slowly and cautiously
+(c) by codification
+(d) by revolution
+
+
+14. Ogg says the constitutional history of Britain displays:
+(a) discontinuity
+(b) continuity hardly paralleled in any other land
+(c) revolutionary breaks
+(d) codification
+
+
+15. According to Ogg, political changes in Britain have been:
+(a) sudden and violent
+(b) gradual, with habitual deference to traditions
+(c) codified
+(d) revolutionary
+
+
+---
+
+
+From 1.3.7 — Lord Morrison
+
+
+16. Lord Morrison thinks peaceful evolution of the British Constitution is:
+(a) less permanent and more painful
+(b) more permanent, more satisfactory, and less painful than violent bloody revolution
+(c) impossible
+(d) revolutionary
+
+
+17. Lord Morrison thinks his country has been:
+(a) unlucky
+(b) lucky in respect of peaceful constitutional evolution
+(c) revolutionary
+(d) codified
+
+
+---
+
+
+From 1.3.8 — Freeman
+
+
+18. Freeman said the continual national life of the people has remained unbroken for:
+(a) 100 years
+(b) 500 years
+(c) fourteen hundred years
+(d) 1000 years
+
+
+19. According to Freeman, Englishmen have never sat down to put together:
+(a) a wholly new constitution in obedience to some dazzling theory
+(b) any laws
+(c) any customs
+(d) any institutions
+
+
+20. Freeman says each step in British constitutional growth has been:
+(a) the natural consequence of some earlier step
+(b) a revolutionary break
+(c) a codification
+(d) a new foundation
+
+
+21. According to Freeman, each change in British constitution has been:
+(a) the beginning of something wholly new
+(b) the development and improvement of something already old
+(c) a revolution
+(d) a codification
+
+
+22. Freeman says the great mark of British political development has:
+(a) often stopped
+(b) never wholly stopped and never been permanently checked
+(c) been revolutionary
+(d) been codified
+
+
+---
+
+
+From 1.3.9–1.3.10 — Starting Point / Periods
+
+
+23. The starting point of the British Constitution lies:
+(a) only in the present
+(b) scattered into the past
+(c) in a single document
+(d) in 1688 only
+
+
+24. The first period of constitutional growth extends to:
+(a) 1215
+(b) 1485
+(c) 1689
+(d) 1931
+
+
+25. The second period of constitutional growth extends from:
+(a) 1215 to 1485
+(b) 1485 to 1689
+(c) 1689 to present
+(d) 1931 to present
+
+
+26. The third period of constitutional growth extends from:
+(a) 1215 to 1485
+(b) 1485 to 1689
+(c) 1689 to the present
+(d) 1931 to present
+
+
+27. The first period is called the period of:
+(a) reconstruction
+(b) foundations of the Constitution
+(c) fructification
+(d) codification
+
+
+28. The second period is called the period of:
+(a) foundations
+(b) reconstruction of the Constitution
+(c) fructification
+(d) codification
+
+
+29. The third period is called the period of:
+(a) foundations
+(b) reconstruction
+(c) rounding out / fructification
+(d) codification
+
+
+30. By the end of the fifteenth century:
+(a) Parliament had begun to show marks of its strength and the King’s power had definitely eclipsed
+(b) the King was supreme
+(c) the Constitution was codified
+(d) there was no Parliament
+
+
+---
+
+
+Mixed / Comprehensive
+
+
+31. Which statement is correct?
+(a) The British Constitution is a pre-arranged pattern
+(b) It is the result of conscious creation
+(c) It is a child of wisdom and chance, grown piecemeal and gradually
+(d) It was drafted by a Constituent Assembly
+
+
+32. Which statement is incorrect?
+(a) The British Constitution has grown like an organism
+(b) Britain has never witnessed revolutionary political upheavals
+(c) The British Constitution is the result of a single act
+(d) Political revolutions in Britain have been conservative in nature
+
+
+33. “Constitutions grow instead of being made” — whose dictum?
+(a) Ogg
+(b) Sir James McIntosh
+(c) Freeman
+(d) Lord Morrison
+
+
+34. “Continuity hardly paralleled in any other land” — who said this about British constitutional history?
+(a) Jennings
+(b) Ogg
+(c) Dicey
+(d) Freeman
+
+
+35. “Unbroken for fourteen hundred years” — who said this?
+(a) Ogg
+(b) Freeman
+(c) Lord Morrison
+(d) McIntosh
+
+
+36. The phrase “child of wisdom and chance” appears in the context of:
+(a) the US Constitution
+(b) the British Constitution
+(c) the Indian Constitution
+(d) the French Constitution
+
+
+37. The British Constitution’s growth has been:
+(a) by conscious creation
+(b) piecemeal and gradual
+(c) by revolution
+(d) by codification
+
+
+38. Which is NOT true of the British Constitution?
+(a) It is a product of evolution
+(b) It has grown like an organism
+(c) It was made in one go by a Constituent Assembly
+(d) It has developed over a thousand years
+
+
+39. The first period of British constitutional growth covers:
+(a) Angles and Saxons through Norman and Angevin dynasties to 1485
+(b) 1485 to 1689
+(c) 1689 to present
+(d) 1931 to present
+
+
+40. The second period of British constitutional growth covers:
+(a) Angles and Saxons to 1485
+(b) Tudor dynasty through early and later Stuart periods, including Puritan Revolution and Commonwealth
+(c) 1689 to present
+(d) 1931 to present
+
+
+---
+
+
+Attempt these, then we move to Topic 1.4 — Nature of the British Constitution: body of basic rules; dynamic; practical; lacks logic/symmetry (or whichever you prefer).
+
+
+
+
+Topic 1.4 — Nature of the British Constitution: Body of Basic Rules; Dynamic; Practical; Lacks Logic/Symmetry
+
+
+1.4.1 Definition — A Body of Basic Rules
+
+
+· Briefly, the British Constitution is:
+  · a body of basic rules
+  · indicating the structure and functions of political institutions
+  · and the principles governing their operation.
+· It is just the same in nature as the constitution of any other country.
+· The only difference is that the British Constitution has never been systematised, codified and put in an orderly form.
+
+
+1.4.2 Same in Nature as Other Constitutions
+
+
+· The British Constitution is not different in kind from other constitutions.
+· It performs the same function: laying down basic rules about institutions and their working.
+· But it remains undefined, unsystematised and undecided.
+· It lacks precision and coherence.
+· No single document contains it.
+
+
+1.4.3 Dynamic Nature
+
+
+· The British Constitution is ever growing and always undergoing modifications.
+· It is a dynamic Constitution with its roots in the past and branches in the future.
+· It has grown with the growth of the English nation, changed with its wants, and adapted itself to the needs of various times.
+· No man in 1688 could have foretold the present Constitution, and no man today can predict how it will evolve decades hence.
+
+
+1.4.4 Practical and Expedient Character
+
+
+· The Englishman, as a political entity, has never favoured a system of government based upon fixed principles involving the application of exact rules.
+· He is:
+  · practical,
+  · matter-of-fact, and
+  · zealous for business.
+· Expediency is the guiding principle of his life.
+· He seizes opportunity by the forelock.
+· The Constitution is shaped by practical needs rather than abstract theory.
+
+
+1.4.5 Lacks Logic
+
+
+· The Englishman knows no logic, and the British Constitution lacks all logic.
+· It has not been built on a single logical plan or grand theory.
+· It has grown piecemeal, by accident and design, as circumstances demanded.
+· There is no attempt to make it a consistent and coherent whole.
+
+
+1.4.6 Ogg’s Observation — Lacks Symmetry, Abounds in the Illogical
+
+
+· Ogg says:
+  · “the result is a constitutional structure which lacks symmetry, governmental system which abounds in the illogical.”
+· This means the Constitution is not neatly arranged or logically symmetrical.
+· It contains many survivals, anomalies and illogical features.
+
+
+1.4.7 Not a Mere Hotchpotch
+
+
+· But this does not mean that it is a mere hotchpotch of heterogeneous elements.
+· The rules and principles which govern the governmental machinery have been:
+  · deduced from British experience, and
+  · consciously adhered to and applied.
+· So there is order and purpose, even if not logical symmetry.
+
+
+1.4.8 Anson’s Summary of the Nature
+
+
+· Anson summed up the nature of the British Constitution:
+  · It is “a somewhat rambling structure,
+  · and like a house which many successive owners have altered just so far as suited their immediate wants or fashion of the time,
+  · it bears the marks of many hands,
+  · and is convenient rather than symmetrical.
+  · Forms and phrases survive which have long since lost their meaning,
+  · and the adaptation of practice to convenience by a process of unconscious change has brought about in many cases a divergence of law and custom, of theory and practice.”
+
+
+1.4.9 Bagehot’s Prerequisites
+
+
+· Walter Bagehot in The English Constitution asserted that such a system of government as obtainable in Britain was possible because there existed certain prerequisites:
+  · mutual confidence among electors,
+  · a calm national mind, and
+  · the gift of rationality.
+· All these qualities add up to an adult and practical nation.
+· The obvious result is that “the British for the most part think that the nature of their Constitution is most sensible and that a codified constitution like the American is more trouble than it is worth.”
+
+
+1.4.10 Summary Table of Nature
+
+
+Feature Explanation
+Body of basic rules Structure/functions of institutions and principles of operation
+Same in nature as others Only difference: not systematised/codified
+Dynamic Ever-growing; roots in past, branches in future
+Practical Expediency, not abstract theory; matter-of-fact
+Lacks logic No single logical plan; grown piecemeal
+Lacks symmetry (Ogg) Illogical features; anomalies survive
+Not a hotchpotch Rules deduced from experience and consciously applied
+Anson Rambling structure; convenient rather than symmetrical; divergence of law and custom, theory and practice
+Bagehot Mutual confidence, calm national mind, rationality; adult practical nation; codified constitution more trouble than worth
+
+
+---
+
+
+MCQs from Topic 1.4
+
+
+From 1.4.1 — Body of Basic Rules
+
+
+1. The British Constitution is a body of basic rules indicating:
+(a) only the structure of political institutions
+(b) the structure and functions of political institutions and principles governing their operation
+(c) only the functions of courts
+(d) only the powers of the King
+
+
+2. The British Constitution is:
+(a) different in nature from other constitutions
+(b) the same in nature as other constitutions, but never systematised or codified
+(c) wholly written
+(d) based on fixed principles and exact rules
+
+
+3. The only difference between the British Constitution and other constitutions is that it has:
+(a) no rules
+(b) never been systematised, codified and put in orderly form
+(c) no institutions
+(d) no history
+
+
+---
+
+
+From 1.4.2 — Same in Nature
+
+
+4. The British Constitution lacks:
+(a) basic rules
+(b) precision and coherence
+(c) institutions
+(d) principles of operation
+
+
+5. Regarding codification, the British Constitution:
+(a) is codified
+(b) has never been systematised, codified and put in orderly form
+(c) was codified in 1688
+(d) is being codified now
+
+
+---
+
+
+From 1.4.3 — Dynamic Nature
+
+
+6. The British Constitution is:
+(a) static
+(b) ever growing and always undergoing modifications
+(c) codified once and for all
+(d) rigid and unchangeable
+
+
+7. The British Constitution has:
+(a) roots in the future and branches in the past
+(b) roots in the past and branches in the future
+(c) no roots
+(d) only branches
+
+
+8. Regarding prediction of the Constitution’s future:
+(a) it can be accurately predicted
+(b) no man in 1688 could have foretold present-day Britain, nor can we predict decades hence
+(c) it never changes
+(d) it changes only by revolution
+
+
+---
+
+
+From 1.4.4 — Practical and Expedient Character
+
+
+9. The Englishman as a political entity has never favoured:
+(a) practical government
+(b) a system based on fixed principles involving exact rules
+(c) parliamentary government
+(d) common law
+
+
+10. The guiding principle of the Englishman’s political life is:
+(a) logic
+(b) symmetry
+(c) expediency
+(d) codification
+
+
+11. The Englishman is described as:
+(a) impractical and theoretical
+(b) practical, matter-of-fact, and zealous for business
+(c) logical and systematic
+(d) revolutionary
+
+
+12. The Englishman “seizes opportunity by the forelock” means he is:
+(a) slow and cautious
+(b) quick to take advantage of circumstances
+(c) theoretical
+(d) logical
+
+
+---
+
+
+From 1.4.5–1.4.6 — Lacks Logic / Ogg
+
+
+13. “He knows no logic, and the British Constitution lacks all logic” refers to:
+(a) the King
+(b) the Englishman as a political entity
+(c) Jennings
+(d) Ogg
+
+
+14. Ogg says the British constitutional structure:
+(a) lacks symmetry and abounds in the illogical
+(b) is perfectly symmetrical
+(c) is fully logical
+(d) is codified
+
+
+15. The British Constitution lacks:
+(a) symmetry
+(b) basic rules
+(c) institutions
+(d) history
+
+
+16. According to Ogg, the British governmental system:
+(a) is fully logical
+(b) abounds in the illogical
+(c) is symmetrical
+(d) is codified
+
+
+---
+
+
+From 1.4.7 — Not a Mere Hotchpotch
+
+
+17. The British Constitution is not a mere hotchpotch because its rules have been:
+(a) deduced from British experience and consciously applied
+(b) copied from the US
+(c) drafted by a Constituent Assembly
+(d) enacted in one statute
+
+
+18. The rules governing British governmental machinery are:
+(a) random and unplanned
+(b) deduced from British experience and consciously adhered to
+(c) borrowed from abroad
+(d) based on pure logic
+
+
+---
+
+
+From 1.4.8 — Anson’s Summary
+
+
+19. Anson described the British Constitution as:
+(a) a perfectly symmetrical structure
+(b) a somewhat rambling structure, convenient rather than symmetrical
+(c) a codified document
+(d) a logical system
+
+
+20. According to Anson, the British Constitution bears the marks of:
+(a) one hand
+(b) many hands
+(c) a Constituent Assembly
+(d) a single author
+
+
+21. Anson says the British Constitution is:
+(a) symmetrical rather than convenient
+(b) convenient rather than symmetrical
+(c) logical and precise
+(d) codified
+
+
+22. Anson points out that in the British Constitution there is divergence of:
+(a) law and custom, theory and practice
+(b) written and unwritten law only
+(c) statutes and ordinances only
+(d) centre and states only
+
+
+23. According to Anson, forms and phrases survive which:
+(a) are fully meaningful
+(b) have long since lost their meaning
+(c) are logically necessary
+(d) are codified
+
+
+---
+
+
+From 1.4.9 — Bagehot’s Prerequisites
+
+
+24. Bagehot said the British system was possible because of:
+(a) mutual confidence among electors, a calm national mind, and the gift of rationality
+(b) a written constitution
+(c) a codified constitution
+(d) revolutionary upheavals
+
+
+25. According to Bagehot, these qualities add up to:
+(a) a revolutionary nation
+(b) an adult and practical nation
+(c) a logical nation
+(d) a codified nation
+
+
+26. Bagehot observed that the British for the most part think their Constitution is:
+(a) illogical and bad
+(b) most sensible, and a codified constitution like the American is more trouble than it is worth
+(c) in need of codification
+(d) revolutionary
+
+
+---
+
+
+Mixed / Comprehensive
+
+
+27. Which is NOT a characteristic of the British Constitution?
+(a) Dynamic
+(b) Practical
+(c) Codified and systematic
+(d) Lacks logic
+
+
+28. Which statement is correct?
+(a) The British Constitution is a mere hotchpotch
+(b) It lacks symmetry but is not a mere hotchpotch
+(c) It is perfectly symmetrical
+(d) It is fully logical
+
+
+29. “Convenient rather than symmetrical” — who said this about the British Constitution?
+(a) Ogg
+(b) Anson
+(c) Bagehot
+(d) Jennings
+
+
+30. “Lacks symmetry, abounds in the illogical” — who said this?
+(a) Anson
+(b) Ogg
+(c) Bagehot
+(d) Dicey
+
+
+31. The British Constitution is practical because:
+(a) it is based on abstract theory
+(b) expediency is its guiding principle
+(c) it is codified
+(d) it is symmetrical
+
+
+32. Which statement about the British Constitution is incorrect?
+(a) It is a body of basic rules
+(b) It is dynamic
+(c) It is a mere hotchpotch
+(d) It lacks logic
+
+
+33. Bagehot’s prerequisites for the British system include all EXCEPT:
+(a) mutual confidence among electors
+(b) a calm national mind
+(c) the gift of rationality
+(d) a written constitution
+
+
+34. Anson compared the British Constitution to:
+(a) a machine
+(b) a house altered by many successive owners
+(c) a codified document
+(d) a logical system
+
+
+35. The phrase “roots in the past and branches in the future” describes the British Constitution as:
+(a) static
+(b) dynamic
+(c) codified
+(d) symmetrical
+
+
+---
+
+
+Attempt these and share your answers. Then we can proceed to Topic 1.5 — Debate: Did the British Constitution exist? (Paine and Tocqueville vs. rebuttal) or any other section you prefer.
+
+
+
+
+Topic 1.5 — Debate: Did the British Constitution Exist? (Paine and Tocqueville vs. Rebuttal)
+
+
+1.5.1 The Assertion
+
+
+· Thomas Paine and Alexis de Tocqueville were prominent among many writers who held the opinion that the British Constitution did not exist.
+· They argued that since Britain had no single written document, there was no constitution properly so called.
+· The text firmly concludes that both were wrong.
+
+
+1.5.2 Thomas Paine’s Argument
+
+
+· Paine was a great champion of written constitutions.
+· He categorically declared:
+  · Where a Constitution “cannot be produced in a visible form, there is none.”
+· In a spirited reply to Burke (who defended the British Constitution in Reflections on the French Revolution), Paine asked:
+  · “Can Mr. Burke produce the English Constitution?”
+· Paine concluded:
+  · If he cannot, we may fairly conclude that no such thing as a Constitution exists or ever did exist, though it has been so much talked about.
+
+
+1.5.3 Tocqueville’s View
+
+
+· De Tocqueville, a celebrated French writer on foreign governments, said a generation later:
+  · In “England the Constitution may go on changing continually or rather it does not exist.”
+· Like Paine, he equated the absence of a single written document with the absence of a constitution.
+
+
+1.5.4 The Rebuttal — Why Paine and Tocqueville Were Wrong
+
+
+(a) No State Without a Constitution
+
+
+· There can be no State without a constitution.
+· Every state must have some body of rules governing its institutions and their operation.
+· Britain has such institutions and such rules.
+
+
+(b) No Constitution Is Wholly Written or Entirely Unwritten
+
+
+· It is true that Britain has no single document comprising fundamental constitutional rules (unlike the USA or India).
+· But no constitution is either wholly written or entirely unwritten.
+· Written and unwritten elements are present in every constitution.
+
+
+(c) Written Constitutions Grow and Expand
+
+
+· All written constitutions grow and expand with the passage of time through:
+  · customs, and
+  · judicial interpretations.
+· Bryce’s observation:
+  · Written constitutions become “developed by interpretation, fringed with decisions, and enlarged by customs”, so that after a time the letter of their texts no longer conveys their full effect.
+
+
+(d) Makers Cannot Foresee the Future
+
+
+· The makers of a written constitution cannot foresee the future.
+· They cannot shape the constitution to fulfill the needs of people to come.
+· Man is dynamic, and so are his political institutions.
+· The conventional element in any system of government is inevitable.
+
+
+(e) A Written Constitution Does Not Contain All Rules
+
+
+· A written constitution does not contain all rules relating to all institutions of government.
+· A selection is made of both (rules and institutions).
+· Examples:
+  · US Constitution: only seven Articles, about ten pages.
+  · Indian Constitution: lengthiest in the world, 395 Articles and twelve Schedules.
+· This shows that a written constitution may contain as much or as little as the framers think desirable.
+
+
+(f) No Constitution Is Complete by Itself
+
+
+· No constitution is complete by itself.
+· It is a framework, a skeleton which has to be filled out with detailed rules and practices.
+· It deals with:
+  · principal institutions and their main functions;
+  · rights and duties of citizens regarded as important at the time.
+· It may contain more or less, according to circumstances and problems faced at the time of drafting.
+
+
+(g) Amendments and Customs Supplement Constitutional Provisions
+
+
+· All written constitutions provide for amendments to cater to future needs.
+· Customs and judicial decisions also supplement constitutional provisions.
+
+
+(h) Difference Is One of Degree, Not Kind
+
+
+· The difference between a written and an unwritten constitution is:
+  · one of degree, not of kind.
+· Wherever there are rules determining the creation and operation of governmental institutions, there exists a constitution.
+
+
+1.5.5 Conclusion
+
+
+· Britain has such institutions and such rules.
+· Long before the times of Paine and Tocqueville, England had such a body of rules, with Englishmen equally conscious of its existence and proud of its history.
+· Therefore, the British Constitution did and does exist, even though it is not codified in a single document.
+
+
+---
+
+
+Key Exam Points for 1.5
+
+
+Point Key Idea
+Paine’s view No visible document = no constitution; challenged Burke to produce it
+Tocqueville’s view Constitution changes continually, or rather does not exist
+Rebuttal 1 No State without a constitution
+Rebuttal 2 No constitution wholly written or entirely unwritten
+Rebuttal 3 Written constitutions grow by customs and judicial interpretation (Bryce)
+Rebuttal 4 Makers cannot foresee future; conventional element inevitable
+Rebuttal 5 Written constitution does not contain all rules; selection made (US 7 Articles vs India 395 Articles)
+Rebuttal 6 No constitution complete by itself; framework/skeleton filled by detailed rules
+Rebuttal 7 Amendments and customs supplement
+Conclusion Written vs unwritten = difference of degree, not kind; Britain had a constitution long before Paine and Tocqueville
+
+
+---
+
+
+MCQs from Topic 1.5
+
+
+From 1.5.1–1.5.2 — Paine’s Argument
+
+
+1. Thomas Paine and Alexis de Tocqueville were of the opinion that:
+(a) the British Constitution was the best in the world
+(b) the British Constitution did not exist
+(c) the British Constitution was fully written
+(d) the British Constitution was codified
+
+
+2. Thomas Paine was a great champion of:
+(a) unwritten constitutions
+(b) written constitutions
+(c) customary law
+(d) royal prerogative
+
+
+3. Paine declared that where a Constitution “cannot be produced in a visible form”:
+(a) it is flexible
+(b) there is none
+(c) it is supreme
+(d) it is conventional
+
+
+4. Paine asked which of the following to produce the English Constitution?
+(a) Dicey
+(b) Burke
+(c) Blackstone
+(d) Bagehot
+
+
+5. Paine concluded that if Burke could not produce the English Constitution:
+(a) it exists in custom
+(b) no such thing as a Constitution exists or ever did exist
+(c) it is unwritten but valid
+(d) it is flexible
+
+
+---
+
+
+From 1.5.3 — Tocqueville’s View
+
+
+6. Tocqueville said that in England the Constitution:
+(a) is fully written
+(b) may go on changing continually, or rather does not exist
+(c) is the supreme law
+(d) was made in 1688
+
+
+7. Tocqueville was a celebrated writer from:
+(a) England
+(b) France
+(c) America
+(d) Germany
+
+
+---
+
+
+From 1.5.4(a) — No State Without a Constitution
+
+
+8. According to the text, there can be no State without:
+(a) a written constitution
+(b) a constitution
+(c) a King
+(d) a Parliament
+
+
+9. The text concludes that Paine and Tocqueville were:
+(a) correct
+(b) wrong
+(c) partially correct
+(d) describing the US Constitution
+
+
+---
+
+
+From 1.5.4(b) — No Constitution Wholly Written or Entirely Unwritten
+
+
+10. No constitution is:
+(a) wholly written or entirely unwritten
+(b) based on customs
+(c) subject to judicial interpretation
+(d) complete by itself
+
+
+11. In every constitution, the presence of which elements is found?
+(a) Only written elements
+(b) Only unwritten elements
+(c) Both written and unwritten elements
+(d) Neither written nor unwritten elements
+
+
+---
+
+
+From 1.5.4(c) — Written Constitutions Grow (Bryce)
+
+
+12. Bryce remarked that written constitutions become:
+(a) rigid and fixed
+(b) developed by interpretation, fringed with decisions, and enlarged by customs
+(c) obsolete quickly
+(d) codified again
+
+
+13. According to Bryce, after a time the letter of written constitutions:
+(a) remains fully effective
+(b) no longer conveys their full effect
+(c) becomes irrelevant
+(d) is repealed
+
+
+14. Written constitutions grow and expand through:
+(a) customs and judicial interpretations
+(b) revolutions only
+(c) royal grants only
+(d) codification only
+
+
+---
+
+
+From 1.5.4(d) — Makers Cannot Foresee the Future
+
+
+15. The makers of a written constitution:
+(a) can foresee the future perfectly
+(b) cannot foresee the future
+(c) always draft complete constitutions
+(d) need no amendments
+
+
+16. Man is described as:
+(a) static
+(b) dynamic, and so are his political institutions
+(c) unchanging
+(d) logical
+
+
+17. The conventional element in any system of government is:
+(a) avoidable
+(b) inevitable
+(c) unnecessary
+(d) harmful
+
+
+---
+
+
+From 1.5.4(e) — Written Constitution Does Not Contain All Rules
+
+
+18. A written constitution contains:
+(a) all rules relating to all institutions
+(b) only a selection of rules and institutions
+(c) no rules
+(d) only unwritten rules
+
+
+19. The US Constitution contains:
+(a) 395 Articles
+(b) seven Articles and about ten pages
+(c) twelve Schedules
+(d) no articles
+
+
+20. The Indian Constitution contains:
+(a) seven Articles
+(b) 395 Articles and twelve Schedules
+(c) ten pages
+(d) no Schedules
+
+
+21. The difference between the US and Indian Constitutions shows that:
+(a) written constitutions are all the same length
+(b) a written constitution may contain as much or as little as the framers think desirable
+(c) India copied the US Constitution
+(d) the US Constitution is incomplete
+
+
+---
+
+
+From 1.5.4(f) — No Constitution Complete by Itself
+
+
+22. A written constitution is:
+(a) complete by itself
+(b) a framework or skeleton filled out with detailed rules and practices
+(c) not amendable
+(d) not supplemented by customs
+
+
+23. A constitution is concerned with:
+(a) all details of government
+(b) principal institutions, their main functions, and important rights and duties
+(c) only the judiciary
+(d) only the legislature
+
+
+24. A constitution may contain more or less according to:
+(a) the whims of the drafters
+(b) circumstances and problems faced by the State at the time of drafting
+(c) foreign pressure
+(d) royal command
+
+
+---
+
+
+From 1.5.4(g) — Amendments and Customs Supplement
+
+
+25. All written constitutions provide for:
+(a) no amendments
+(b) amendments to cater to future needs
+(c) only judicial review
+(d) only conventions
+
+
+26. Constitutional provisions are supplemented by:
+(a) only statutes
+(b) customs and judicial decisions
+(c) only royal decrees
+(d) only foreign models
+
+
+---
+
+
+From 1.5.4(h) — Difference of Degree, Not Kind
+
+
+27. The difference between a written and an unwritten constitution is one of:
+(a) kind, not degree
+(b) degree, not kind
+(c) nature, not form
+(d) supremacy, not flexibility
+
+
+28. Wherever there are rules determining the creation and operation of governmental institutions, there exists:
+(a) a written constitution
+(b) a constitution
+(c) a federal system
+(d) judicial review
+
+
+---
+
+
+From 1.5.5 — Conclusion
+
+
+29. Long before Paine and Tocqueville, England had:
+(a) no constitution
+(b) a body of rules, with Englishmen conscious of its existence and proud of its history
+(c) a codified constitution
+(d) a written constitution drafted by a Constituent Assembly
+
+
+30. The British Constitution exists because:
+(a) it is codified
+(b) Britain has institutions and rules governing their creation and operation
+(c) Paine and Tocqueville said so
+(d) it is written in one document
+
+
+---
+
+
+Mixed / Comprehensive
+
+
+31. Which statement is correct?
+(a) Paine and Tocqueville were right that the British Constitution does not exist
+(b) Paine and Tocqueville were wrong; Britain has a constitution though not codified
+(c) The British Constitution is wholly written
+(d) The British Constitution is wholly unwritten
+
+
+32. Which statement is incorrect?
+(a) No State can exist without a constitution
+(b) Written constitutions grow by customs and judicial interpretation
+(c) A written constitution contains all rules relating to all institutions
+(d) The difference between written and unwritten constitutions is one of degree
+
+
+33. “Can Mr. Burke produce the English Constitution?” — who asked this?
+(a) Tocqueville
+(b) Paine
+(c) Dicey
+(d) Jennings
+
+
+34. “England the Constitution may go on changing continually or rather it does not exist” — who said this?
+(a) Paine
+(b) Tocqueville
+(c) Burke
+(d) Bryce
+
+
+35. Bryce’s observation about written constitutions becoming “developed by interpretation, fringed with decisions, and enlarged by customs” supports the idea that:
+(a) written constitutions are complete
+(b) written and unwritten elements exist in every constitution
+(c) the British Constitution does not exist
+(d) customs are irrelevant
+
+
+36. The example of the US Constitution (7 Articles) and Indian Constitution (395 Articles) is used to show:
+(a) the US Constitution is superior
+(b) the Indian Constitution is superior
+(c) a written constitution may contain as much or as little as desired
+(d) written constitutions are always lengthy
+
+
+37. Which of the following is NOT a reason given to rebut Paine and Tocqueville?
+(a) No State without a constitution
+(b) Written constitutions grow by customs and judicial interpretation
+(c) A written constitution contains all rules
+(d) Difference between written and unwritten is one of degree
+
+
+38. The British Constitution exists because:
+(a) it is produced in a visible form
+(b) there are rules determining the creation and operation of governmental institutions
+(c) Paine said so
+(d) it is codified in one document
+
+
+39. Paine and Tocqueville equated the absence of a single written document with:
+(a) the existence of a constitution
+(b) the absence of a constitution
+(c) a flexible constitution
+(d) a supreme constitution
+
+
+40. The text concludes that the British Constitution:
+(a) does not exist
+(b) existed long before Paine and Tocqueville, and Englishmen were conscious of it
+(c) was created in 1688
+(d) was written by Burke
+
+
+---
+
+
+Attempt these and share your answers. Then we move to Topic 1.6 — Written vs. Unwritten Constitutions: Difference of Degree, Not Kind; No Constitution Complete by Itself (or whichever you prefer).
+
+
+Topic 1.6 — Written vs. Unwritten Constitutions: Difference of Degree, Not Kind; No Constitution Complete by Itself
+
+
+1.6.1 The Core Distinction
+
+
+· The difference between a written and an unwritten constitution is:
+  · one of degree, not of kind.
+· This means:
+  · it is a matter of how much is written down, not whether a constitution exists.
+· Wherever there are rules determining the creation and operation of governmental institutions, there exists a constitution.
+· Britain has such institutions and such rules, therefore Britain has a constitution.
+
+
+1.6.2 No Constitution Is Wholly Written or Entirely Unwritten
+
+
+· No constitution is either wholly written or entirely unwritten.
+· Written and unwritten elements are present in every constitution.
+· Even the most detailed written constitution relies on:
+  · customs,
+  · conventions, and
+  · judicial interpretations.
+· Even the most unwritten constitution (like Britain’s) contains:
+  · statutes,
+  · judicial decisions, and
+  · documentary sources.
+
+
+1.6.3 Written Constitutions Grow and Expand (Bryce’s Observation)
+
+
+· All written constitutions grow and expand with the passage of time.
+· This growth occurs through:
+  · customs, and
+  · judicial interpretations.
+· Bryce remarked that written constitutions become:
+  · **“developed by interpretation,
+  · fringed with decisions,
+  · and enlarged by customs,
+  · so that after a time the letter of their texts no longer conveys their full effect.”**
+· This shows that even written constitutions are not static; they evolve like unwritten ones.
+
+
+1.6.4 Makers Cannot Foresee the Future
+
+
+· The makers of a written constitution cannot foresee the future.
+· They cannot shape the constitution to fulfill the needs of people to come.
+· Man is dynamic, and so are his political institutions.
+· Therefore, the conventional element in any system of government is inevitable.
+· No written constitution can provide for every future circumstance.
+
+
+1.6.5 A Written Constitution Does Not Contain All Rules
+
+
+· A written constitution does not contain all rules relating to all institutions of government.
+· A selection is made of both:
+  · rules, and
+  · institutions.
+· Examples:
+  · US Constitution: only seven Articles, occupies about ten pages.
+  · Indian Constitution: lengthiest in the world, 395 Articles and twelve Schedules.
+· The difference between the two is suggestive:
+  · it shows that within limits, a written constitution may contain as much or as little as is thought desirable by the framers.
+
+
+1.6.6 No Constitution Is Complete by Itself
+
+
+· No constitution is complete by itself.
+· It is:
+  · a framework,
+  · a skeleton,
+  · which has to be filled out with detailed rules and practices.
+· A constitution is concerned with:
+  · the principal institutions and their main functions;
+  · the rights and duties of citizens which are, for the time being, regarded as important.
+· It may contain more or less, according to:
+  · the circumstances of the moment, and
+  · the special problems being faced by the State while it is being drafted.
+
+
+1.6.7 Amendments and Supplementary Sources
+
+
+· All written constitutions provide for amendments in order to cater to the future needs of the people.
+· Customs and judicial decisions also supplement the constitutional provisions.
+· Therefore, even a written constitution is:
+  · incomplete without conventions,
+  · incomplete without judicial interpretation, and
+  · incomplete without customs.
+
+
+1.6.8 Conclusion — Degree, Not Kind
+
+
+· The difference between written and unwritten constitutions is therefore:
+  · one of degree, not of kind.
+· Every constitution is a mixture of written and unwritten elements.
+· The British Constitution is not unique in being partly unwritten; it is only more unwritten than most.
+· Conversely, written constitutions are not wholly written; they are only more written than Britain’s.
+· Wherever there are rules determining the creation and operation of governmental institutions, there exists a constitution.
+· Britain has such institutions and such rules; long before Paine and Tocqueville, England had such a body of rules, with Englishmen conscious of its existence and proud of its history.
+
+
+---
+
+
+Key Exam Points for 1.6
+
+
+Point Key Idea
+Core distinction Difference is one of degree, not kind
+No pure type No constitution wholly written or entirely unwritten
+Every constitution mixed Written and unwritten elements present in every constitution
+Bryce Written constitutions develop by interpretation, decisions, customs; letter no longer conveys full effect
+Future unforeseeable Makers cannot foresee future; conventional element inevitable
+Selection made Written constitution contains only a selection of rules/institutions
+US vs India US: 7 Articles, 10 pages; India: 395 Articles, 12 Schedules — shows flexibility in content
+No constitution complete Framework/skeleton filled by detailed rules, customs, judicial decisions, amendments
+Amendments All written constitutions provide for amendments
+Conclusion Difference is degree, not kind; Britain has a constitution
+
+
+---
+
+
+MCQs from Topic 1.6
+
+
+From 1.6.1 — Core Distinction
+
+
+1. The difference between a written and an unwritten constitution is one of:
+(a) kind, not degree
+(b) degree, not kind
+(c) nature, not form
+(d) supremacy, not flexibility
+
+
+2. Wherever there are rules determining the creation and operation of governmental institutions, there exists:
+(a) a written constitution
+(b) a constitution
+(c) a federal system
+(d) judicial review
+
+
+3. The difference between written and unwritten constitutions is a matter of:
+(a) whether a constitution exists
+(b) how much is written down
+(c) whether courts exist
+(d) whether there is a monarchy
+
+
+---
+
+
+From 1.6.2 — No Constitution Wholly Written or Entirely Unwritten
+
+
+4. No constitution is:
+(a) wholly written or entirely unwritten
+(b) based on customs
+(c) subject to judicial interpretation
+(d) complete by itself
+
+
+5. In every constitution, the presence of which elements is found?
+(a) Only written elements
+(b) Only unwritten elements
+(c) Both written and unwritten elements
+(d) Neither written nor unwritten elements
+
+
+6. Even the most detailed written constitution relies on:
+(a) only statutes
+(b) customs, conventions, and judicial interpretations
+(c) only royal decrees
+(d) only foreign models
+
+
+---
+
+
+From 1.6.3 — Bryce’s Observation
+
+
+7. Bryce remarked that written constitutions become:
+(a) rigid and fixed
+(b) developed by interpretation, fringed with decisions, and enlarged by customs
+(c) obsolete quickly
+(d) codified again
+
+
+8. According to Bryce, after a time the letter of written constitutions:
+(a) remains fully effective
+(b) no longer conveys their full effect
+(c) becomes irrelevant
+(d) is repealed
+
+
+9. Written constitutions grow and expand through:
+(a) customs and judicial interpretations
+(b) revolutions only
+(c) royal grants only
+(d) codification only
+
+
+---
+
+
+From 1.6.4 — Makers Cannot Foresee the Future
+
+
+10. The makers of a written constitution:
+(a) can foresee the future perfectly
+(b) cannot foresee the future
+(c) always draft complete constitutions
+(d) need no amendments
+
+
+11. Man is described as:
+(a) static
+(b) dynamic, and so are his political institutions
+(c) unchanging
+(d) logical
+
+
+12. The conventional element in any system of government is:
+(a) avoidable
+(b) inevitable
+(c) unnecessary
+(d) harmful
+
+
+---
+
+
+From 1.6.5 — Written Constitution Does Not Contain All Rules
+
+
+13. A written constitution contains:
+(a) all rules relating to all institutions
+(b) only a selection of rules and institutions
+(c) no rules
+(d) only unwritten rules
+
+
+14. The US Constitution contains:
+(a) 395 Articles
+(b) seven Articles and about ten pages
+(c) twelve Schedules
+(d) no articles
+
+
+15. The Indian Constitution contains:
+(a) seven Articles
+(b) 395 Articles and twelve Schedules
+(c) ten pages
+(d) no Schedules
+
+
+16. The difference between the US and Indian Constitutions shows that:
+(a) written constitutions are all the same length
+(b) a written constitution may contain as much or as little as the framers think desirable
+(c) India copied the US Constitution
+(d) the US Constitution is incomplete
+
+
+---
+
+
+From 1.6.6 — No Constitution Complete by Itself
+
+
+17. A written constitution is:
+(a) complete by itself
+(b) a framework or skeleton filled out with detailed rules and practices
+(c) not amendable
+(d) not supplemented by customs
+
+
+18. A constitution is concerned with:
+(a) all details of government
+(b) principal institutions, their main functions, and important rights and duties
+(c) only the judiciary
+(d) only the legislature
+
+
+19. A constitution may contain more or less according to:
+(a) the whims of the drafters
+(b) circumstances and problems faced by the State at the time of drafting
+(c) foreign pressure
+(d) royal command
+
+
+---
+
+
+From 1.6.7 — Amendments and Supplementary Sources
+
+
+20. All written constitutions provide for:
+(a) no amendments
+(b) amendments to cater to future needs
+(c) only judicial review
+(d) only conventions
+
+
+21. Constitutional provisions are supplemented by:
+(a) only statutes
+(b) customs and judicial decisions
+(c) only royal decrees
+(d) only foreign models
+
+
+---
+
+
+From 1.6.8 — Conclusion
+
+
+22. The British Constitution is not unique in being partly unwritten; it is only:
+(a) more written than most
+(b) more unwritten than most
+(c) wholly unwritten
+(d) wholly written
+
+
+23. Written constitutions are not wholly written; they are only:
+(a) more written than Britain’s
+(b) less written than Britain’s
+(c) wholly unwritten
+(d) irrelevant
+
+
+24. Long before Paine and Tocqueville, England had:
+(a) no constitution
+(b) a body of rules, with Englishmen conscious of its existence and proud of its history
+(c) a codified constitution
+(d) a written constitution drafted by a Constituent Assembly
+
+
+---
+
+
+Mixed / Comprehensive
+
+
+25. Which statement is correct?
+(a) The difference between written and unwritten constitutions is one of kind
+(b) No constitution is wholly written or entirely unwritten
+(c) Written constitutions never change
+(d) Unwritten constitutions have no rules
+
+
+26. Which statement is incorrect?
+(a) Written constitutions grow by customs and judicial interpretation
+(b) A written constitution contains all rules relating to all institutions
+(c) No constitution is complete by itself
+(d) The difference between written and unwritten is one of degree
+
+
+27. “Developed by interpretation, fringed with decisions, and enlarged by customs” — who said this?
+(a) Dicey
+(b) Bryce
+(c) Jennings
+(d) Ogg
+
+
+28. The example of the US Constitution (7 Articles) and Indian Constitution (395 Articles) is used to show:
+(a) the US Constitution is superior
+(b) the Indian Constitution is superior
+(c) a written constitution may contain as much or as little as desired
+(d) written constitutions are always lengthy
+
+
+29. A constitution is a framework or skeleton which:
+(a) needs no filling out
+(b) must be filled out with detailed rules and practices
+(c) is complete by itself
+(d) is never amended
+
+
+30. The difference between written and unwritten constitutions is:
+(a) one of degree, not kind
+(b) one of kind, not degree
+(c) absolute
+(d) irrelevant
+
+
+31. Which is NOT a source that supplements a written constitution?
+(a) Customs
+(b) Judicial decisions
+(c) Conventions
+(d) Royal whims
+
+
+32. The British Constitution is:
+(a) wholly unwritten
+(b) largely unwritten but has written elements
+(c) wholly written
+(d) codified
+
+
+33. “No constitution is complete by itself” means:
+(a) constitutions are useless
+(b) constitutions need detailed rules, customs, and judicial decisions to operate
+(c) constitutions should not be written
+(d) constitutions are always incomplete and therefore invalid
+
+
+34. The US Constitution occupies about:
+(a) 100 pages
+(b) ten pages
+(c) 395 pages
+(d) 50 pages
+
+
+35. The Indian Constitution has:
+(a) 7 Articles and 10 Schedules
+(b) 395 Articles and 12 Schedules
+(c) 100 Articles and 5 Schedules
+(d) no Schedules
+
+
+---
+
+
+Attempt these and share your answers. Then we can move to Topic 2 — Component Parts / Sources of the Constitution (starting with 2.1 Charters, Petitions, Statutes, and constitutional landmarks) or whichever section you prefer.

@@ -1,0 +1,6 @@
+{
+  "name": "Unit 1: British Constitution Study Portal",
+  "description": "Comprehensive part-wise study notes, syllabus outline, and interactive MCQ practice with local result persistence for Unit 1 — British Constitution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
