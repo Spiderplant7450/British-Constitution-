@@ -22,6 +22,7 @@ import {
   Sun,
   Moon,
   Palette,
+  Copy,
 } from 'lucide-react';
 import { SYLLABUS_SECTIONS } from './data/syllabusData';
 import { NOTES_PART_1 } from './data/notesPart1';
@@ -121,6 +122,7 @@ function StudyPortalContent() {
   const [activePage, setActivePage] = useState<ActivePage>('home');
   const [mobileMenuOpen, setMobileMenuOpen] = useState<boolean>(false);
   const [glossaryDrawerOpen, setGlossaryDrawerOpen] = useState<boolean>(false);
+  const [glossarySearchQuery, setGlossarySearchQuery] = useState<string>('');
 
   const [activeNotesPart, setActiveNotesPart] = useState<PartFilter>(1);
   const [selectedNotesTopic, setSelectedNotesTopic] = useState<string>('1.1');
@@ -135,6 +137,7 @@ function StudyPortalContent() {
   const [confirmResetTopic, setConfirmResetTopic] = useState<boolean>(false);
   const [confirmClearAllData, setConfirmClearAllData] = useState<boolean>(false);
   const [saveToastMessage, setSaveToastMessage] = useState<string | null>(null);
+  const [copiedTopicId, setCopiedTopicId] = useState<string | null>(null);
 
   // Load and persist state in localStorage
   const [studyState, setStudyState] = useState<LocalStudyState>(() => {
@@ -454,6 +457,206 @@ function StudyPortalContent() {
     a.download = 'Unit_1_British_Constitution_Results.txt';
     a.click();
     URL.revokeObjectURL(url);
+  };
+
+  const escapeHtml = (str: string): string =>
+    str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+
+  const formatTableAsPlainText = (headers: string[], rows: string[][]): string => {
+    const colWidths = headers.map((h, colIdx) => {
+      const maxRowLen = rows.reduce((max, r) => {
+        const cellText = (r[colIdx] || '').replace(/\s+/g, ' ').trim();
+        return Math.max(max, cellText.length);
+      }, 0);
+      return Math.max(h.trim().length, maxRowLen, 3);
+    });
+
+    const formatRow = (cells: string[]) =>
+      '| ' +
+      cells
+        .map((c, idx) => (c || '').replace(/\s+/g, ' ').trim().padEnd(colWidths[idx], ' '))
+        .join(' | ') +
+      ' |';
+
+    const separator =
+      '| ' + colWidths.map((w) => '-'.repeat(w)).join(' | ') + ' |';
+
+    return [formatRow(headers), separator, ...rows.map(formatRow)].join('\n');
+  };
+
+  const formatTableAsHtml = (headers: string[], rows: string[][]): string => {
+    const ths = headers
+      .map(
+        (h) =>
+          `<th style="border:1px solid #cbd5e1;padding:8px 10px;background:#f8fafc;text-align:left;font-weight:700;">${escapeHtml(h)}</th>`
+      )
+      .join('');
+    const trs = rows
+      .map(
+        (row) =>
+          `<tr>${row
+            .map(
+              (cell, idx) =>
+                `<td style="border:1px solid #cbd5e1;padding:8px 10px;vertical-align:top;${
+                  idx === 0 ? 'font-weight:600;' : ''
+                }">${escapeHtml(cell)}</td>`
+            )
+            .join('')}</tr>`
+      )
+      .join('');
+    return `<table style="border-collapse:collapse;width:100%;margin:10px 0;font-size:14px;"><thead><tr>${ths}</tr></thead><tbody>${trs}</tbody></table>`;
+  };
+
+  const handleCopyTopicNotes = async (topic: TopicNote) => {
+    const plainLines: string[] = [];
+    const htmlParts: string[] = [];
+
+    // 1. Topic Header
+    plainLines.push('================================================================================');
+    plainLines.push(`PART ${topic.partNumber}: ${topic.partTitle}`);
+    plainLines.push(topic.topicTitle);
+    plainLines.push('================================================================================');
+    plainLines.push('');
+
+    htmlParts.push(
+      `<div style="font-family:sans-serif;line-height:1.6;">`,
+      `<p style="margin:0;font-size:12px;color:#64748b;">Part ${topic.partNumber} · ${escapeHtml(topic.partTitle)}</p>`,
+      `<h2 style="margin:4px 0 16px 0;font-size:20px;">${escapeHtml(topic.topicTitle)}</h2>`
+    );
+
+    // 2. All Sub-sections (Bullets, Sub-bullets, and Tables)
+    for (const sub of topic.subSections) {
+      plainLines.push(`${sub.code} ${sub.title}`);
+      plainLines.push('-'.repeat(Math.min(80, `${sub.code} ${sub.title}`.length)));
+
+      htmlParts.push(
+        `<h3 style="margin:16px 0 8px 0;font-size:16px;">${escapeHtml(sub.code)} ${escapeHtml(sub.title)}</h3>`
+      );
+
+      if (sub.bullets.length > 0) {
+        htmlParts.push('<ul style="margin:0 0 12px 20px;padding:0;">');
+        for (const b of sub.bullets) {
+          plainLines.push(`• ${b.text}`);
+          if (b.subBullets && b.subBullets.length > 0) {
+            htmlParts.push(`<li>${escapeHtml(b.text)}<ul style="margin:4px 0 4px 20px;">`);
+            for (const sb of b.subBullets) {
+              plainLines.push(`    - ${sb}`);
+              htmlParts.push(`<li>${escapeHtml(sb)}</li>`);
+            }
+            htmlParts.push('</ul></li>');
+          } else {
+            htmlParts.push(`<li>${escapeHtml(b.text)}</li>`);
+          }
+        }
+        htmlParts.push('</ul>');
+      }
+
+      if (sub.table) {
+        if (sub.bullets.length > 0) plainLines.push('');
+        plainLines.push(formatTableAsPlainText(sub.table.headers, sub.table.rows));
+        htmlParts.push(formatTableAsHtml(sub.table.headers, sub.table.rows));
+      }
+
+      plainLines.push('');
+    }
+
+    // 3. Key Exam Points Section (List or Table)
+    plainLines.push('================================================================================');
+    plainLines.push(topic.keyExamPointsTitle);
+    plainLines.push('================================================================================');
+
+    htmlParts.push(
+      `<h3 style="margin:20px 0 8px 0;font-size:16px;">${escapeHtml(topic.keyExamPointsTitle)}</h3>`
+    );
+
+    if (topic.keyExamPointsFormat === 'list') {
+      htmlParts.push('<ul style="margin:0 0 12px 20px;padding:0;">');
+      for (const kp of topic.keyExamPoints) {
+        plainLines.push(`• ${kp.point} — ${kp.keyIdea}`);
+        htmlParts.push(
+          `<li><strong>${escapeHtml(kp.point)}</strong> — ${escapeHtml(kp.keyIdea)}</li>`
+        );
+      }
+      htmlParts.push('</ul>');
+    } else {
+      const headers =
+        topic.topicId === '1.4' ? ['Feature', 'Explanation'] : ['Point', 'Key Idea'];
+      const rows = topic.keyExamPoints.map((kp) => [kp.point, kp.keyIdea]);
+      plainLines.push(formatTableAsPlainText(headers, rows));
+      htmlParts.push(formatTableAsHtml(headers, rows));
+    }
+
+    // 4. Personal Notes (if user added any)
+    const userNote = (studyState.personalNotes[topic.topicId] || '').trim();
+    if (userNote) {
+      plainLines.push('');
+      plainLines.push('Personal Study Notes:');
+      plainLines.push(userNote);
+      htmlParts.push(
+        `<p style="margin:14px 0 4px 0;font-weight:700;">Personal Study Notes:</p>`,
+        `<p style="margin:0;">${escapeHtml(userNote)}</p>`
+      );
+    }
+
+    htmlParts.push('</div>');
+
+    const plainText = plainLines.join('\n');
+    const htmlText = htmlParts.join('');
+
+    let copied = false;
+    try {
+      if (navigator.clipboard && typeof ClipboardItem !== 'undefined') {
+        await navigator.clipboard.write([
+          new ClipboardItem({
+            'text/plain': new Blob([plainText], { type: 'text/plain' }),
+            'text/html': new Blob([htmlText], { type: 'text/html' }),
+          }),
+        ]);
+        copied = true;
+      }
+    } catch {
+      // Fallback to writeText below
+    }
+
+    if (!copied) {
+      try {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(plainText);
+          copied = true;
+        }
+      } catch {
+        // Fallback to textarea copy below
+      }
+    }
+
+    if (!copied) {
+      try {
+        const textArea = document.createElement('textarea');
+        textArea.value = plainText;
+        textArea.style.position = 'fixed';
+        textArea.style.left = '-9999px';
+        textArea.style.top = '0';
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+        copied = document.execCommand('copy');
+        document.body.removeChild(textArea);
+      } catch {
+        copied = false;
+      }
+    }
+
+    if (copied) {
+      setCopiedTopicId(topic.topicId);
+      triggerToast(`Copied all notes, tables & key points for Topic ${topic.topicId}`);
+      setTimeout(() => {
+        setCopiedTopicId((prev) => (prev === topic.topicId ? null : prev));
+      }, 2400);
+    }
   };
 
   const handleSelectPage = (page: ActivePage) => {
@@ -870,10 +1073,10 @@ function StudyPortalContent() {
             <div className="p-4 sm:p-5 border-b border-slate-200 flex items-center justify-between gap-4">
               <div>
                 <h2 className="text-base sm:text-lg font-bold text-slate-950">
-                  Constitutional Glossary
+                  Constitutional &amp; Academic Glossary ({CONSTITUTION_GLOSSARY.length} Terms)
                 </h2>
                 <p className="text-xs text-slate-500 mt-0.5">
-                  Hover or tap any dotted-underlined word in the text for its definition.
+                  Hover or tap any dotted-underlined word in the study notes for its instant meaning.
                 </p>
               </div>
               <button
@@ -884,35 +1087,63 @@ function StudyPortalContent() {
               </button>
             </div>
 
-            <div className="px-4 sm:px-5 py-2.5 border-b border-slate-100 flex items-center justify-between bg-slate-50 text-xs">
-              <span className="font-medium text-slate-700">
-                Underline glossary words in text:
-              </span>
-              <button
-                onClick={() => setHighlightEnabled((prev) => !prev)}
-                className={`px-3 py-1 rounded-md font-semibold transition-colors cursor-pointer ${
-                  highlightEnabled
-                    ? 'bg-slate-900 text-white'
-                    : 'bg-slate-200 text-slate-700'
-                }`}
-              >
-                {highlightEnabled ? 'On' : 'Off'}
-              </button>
+            <div className="px-4 sm:px-5 py-2.5 border-b border-slate-100 flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 bg-slate-50 text-xs">
+              <div className="relative flex-1">
+                <Search className="w-3.5 h-3.5 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                <input
+                  type="text"
+                  value={glossarySearchQuery}
+                  onChange={(e) => setGlossarySearchQuery(e.target.value)}
+                  placeholder="Search word, phrase, or meaning..."
+                  className="w-full pl-8 pr-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs text-slate-900 placeholder:text-slate-400 focus:outline-none"
+                />
+              </div>
+              <div className="flex items-center justify-between sm:justify-end gap-2 shrink-0">
+                <span className="font-medium text-slate-700">
+                  Underline words in text:
+                </span>
+                <button
+                  onClick={() => setHighlightEnabled((prev) => !prev)}
+                  className={`px-3 py-1 rounded-md font-semibold transition-colors cursor-pointer ${
+                    highlightEnabled
+                      ? 'bg-slate-900 text-white'
+                      : 'bg-slate-200 text-slate-700'
+                  }`}
+                >
+                  {highlightEnabled ? 'On' : 'Off'}
+                </button>
+              </div>
             </div>
 
             <div className="p-4 sm:p-5 overflow-y-auto divide-y divide-slate-100">
-              {CONSTITUTION_GLOSSARY.map((item) => (
+              {CONSTITUTION_GLOSSARY.filter((item) => {
+                if (!glossarySearchQuery.trim()) return true;
+                const q = glossarySearchQuery.toLowerCase();
+                return (
+                  item.term.toLowerCase().includes(q) ||
+                  item.meaning.toLowerCase().includes(q) ||
+                  (item.aliases && item.aliases.some((a) => a.toLowerCase().includes(q))) ||
+                  (item.context && item.context.toLowerCase().includes(q))
+                );
+              }).map((item) => (
                 <div key={item.term} className="py-3 first:pt-0 last:pb-0 space-y-1">
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm font-bold text-slate-900 font-mono">
-                      {item.term}
-                    </span>
+                  <div className="flex items-center justify-between gap-2">
+                    <div className="flex flex-wrap items-baseline gap-1.5">
+                      <span className="text-sm font-bold text-slate-900 font-mono">
+                        {item.term}
+                      </span>
+                      {item.aliases && item.aliases.length > 0 && (
+                        <span className="text-[11px] text-slate-400 font-mono">
+                          ({item.aliases.join(', ')})
+                        </span>
+                      )}
+                    </div>
                     <button
                       onClick={() => {
                         openMeaning(item, item.term);
                         setGlossaryDrawerOpen(false);
                       }}
-                      className="text-xs font-medium text-blue-900 hover:underline cursor-pointer"
+                      className="text-xs font-medium text-blue-900 hover:underline cursor-pointer shrink-0"
                     >
                       Show
                     </button>
@@ -1240,6 +1471,29 @@ function StudyPortalContent() {
                         </div>
 
                         <div className="flex flex-wrap items-center gap-2 shrink-0">
+                          <button
+                            type="button"
+                            onClick={() => handleCopyTopicNotes(topic)}
+                            className={`px-3 py-1.5 text-xs font-semibold rounded-lg border transition-colors inline-flex items-center gap-1.5 cursor-pointer whitespace-nowrap ${
+                              copiedTopicId === topic.topicId
+                                ? 'bg-emerald-50 border-emerald-200 text-emerald-800'
+                                : 'bg-white border-slate-200 text-slate-700 hover:bg-slate-50'
+                            }`}
+                            title="Copy all notes, tables, and key points for this topic in one click"
+                          >
+                            {copiedTopicId === topic.topicId ? (
+                              <>
+                                <Check className="w-3.5 h-3.5" />
+                                <span>Copied!</span>
+                              </>
+                            ) : (
+                              <>
+                                <Copy className="w-3.5 h-3.5" />
+                                <span>Copy Notes</span>
+                              </>
+                            )}
+                          </button>
+
                           <button
                             onClick={() => handleToggleTopicCompleted(topic.topicId)}
                             className={`px-3 py-1.5 text-xs font-semibold rounded-lg border transition-colors inline-flex items-center gap-1.5 cursor-pointer whitespace-nowrap ${
